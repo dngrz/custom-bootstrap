@@ -1,0 +1,19 @@
+{
+  "name": "custom-bootstrap-3.3.7",
+  "version": "1.0.0",
+  "description": "custom bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clodoaldo sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-minify-css": "^1.2.4"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^3.0.2"
+  }
+}
